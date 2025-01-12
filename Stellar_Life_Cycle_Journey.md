@@ -4,15 +4,6 @@ Stars are not just distant points of light in the night sky—they are the funda
 
 In this document, we'll explore the incredible journey of a star—from its birth in stellar nurseries to its eventual death in explosive supernovae or its slow cooling into white dwarfs. Along the way, we’ll touch on the forces and nuclear processes that drive this stellar evolution and shape the cosmos. Ready to take a journey through time and space? Let’s go!
 
-## Table of Contents 📚
-1. [Stellar Nebula: The Birth of a Star](#1-stellar-nebula-the-birth-of-a-star)
-2. [Protostar: Early Development](#2-protostar-early-development)
-3. [Main Sequence: The Stable Phase](#3-main-sequence-the-stable-phase)
-4. [Red Giant / Supergiant: Aging and Expansion](#4-red-giant-supergiant-aging-and-expansion)
-5. [The Fate of Stars: Death of Low and High-Mass Stars](#5-the-fate-of-stars-death-of-low-and-high-mass-stars)
-6. [Afterlife of Stars: Remnants and the Future](#6-afterlife-of-stars-remnants-and-the-future)
-7. [Conclusion: The Cosmic Journey](#7-conclusion-the-cosmic-journey)
-
 ---
 
 ## 1. Stellar Nebula: The Birth of a Star 🌌
