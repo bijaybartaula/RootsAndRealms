@@ -126,8 +126,6 @@ The exploration of time and eternity is far from over. With every discovery in p
 - [The Arrow of Time: Entropy and the Cosmos](https://calteches.library.caltech.edu/4326/1/Time.pdf)
 - [Eternal Inflation and the Multiverse](https://www.scientificamerican.com/custom-media/biggest-questions-in-science/the-founder-of-cosmic-inflation-theory-on-cosmologys-next-big-ideas/)
 
-Certainly! Below is a footer with a thoughtful quote that ties into the themes of time, eternity, and infinity, giving a reflective touch to the end of the blog:
-
 ---
 
 > *"Time is the most precious gift we have, yet it remains the most elusive of mysteries. In the pursuit of understanding its nature, we come closer not only to grasping the universe, but to understanding ourselves."* — Bijay Bartaula
